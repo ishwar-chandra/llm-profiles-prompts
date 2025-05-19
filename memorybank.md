@@ -122,7 +122,7 @@ The HAMS is organized into a clear, hierarchical structure:
     issues-tracker.md           # Known issues and blockers
     roadmap.md                  # Upcoming milestones and priorities
 
-  .hamsrules                    # Project-specific rules and preferences
+  .augment-guidelines                    # Project-specific rules and preferences
 ```
 
 ## Intelligent Workflows
